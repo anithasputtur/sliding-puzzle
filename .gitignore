@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+# personal settings and scores created when you play
+super_puzzle_data.json
+puzzle_scores.json
